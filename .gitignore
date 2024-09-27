@@ -1,0 +1,9 @@
+# IDE-specific files
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Any other files you want to exclude
