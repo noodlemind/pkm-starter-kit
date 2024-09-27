@@ -74,6 +74,6 @@ The `templates/` directory contains starter templates for different note types:
 
 Contributions to improve the PKM Starter Kit are welcome! Please feel free to submit pull requests or open issues to discuss potential improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Additional Resources
+- [License](LICENSE.md)
+- [Quick Reference Guide](QUICK-REFERENCE.md)
