@@ -57,7 +57,7 @@ The `templates/` directory contains starter templates for different note types:
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/yourusername/pkm-starter-kit.git`
+1. Clone this repository: `git clone https://github.com/noodlemind/pkm-starter-kit.git`
 2. 2. Remove the `.gitkeep` files if desired.
 3. Start creating notes in the `inbox/` directory using the provided templates.
 4. Regularly review and organize notes into the appropriate directories.
